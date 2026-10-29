@@ -1,5 +1,0 @@
-{
-  "index_type": "flat",
-  "embedding_model": "l3cube-pune/kannada-sentence-bert-nli",
-  "num_chunks": 215
-}
